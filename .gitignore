@@ -1,0 +1,5 @@
+__pycache__/
+*.py[cod]
+device_vault.enc
+device_profile.json
+Hirsizlik_Mudahale_Tutanagi_*.txt
